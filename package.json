@@ -1,6 +1,6 @@
 {
   "name": "karma-ember-precompiler-brunch",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Handlebars precompile preprocessor for karma based on ember-precompiler-brunch plugin",
   "main": "index.js",
   "scripts": {
